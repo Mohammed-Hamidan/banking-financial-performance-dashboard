@@ -33,7 +33,8 @@ A date dimension enables time-based analysis, while interactive slicers allow us
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/overview.png)
+<img width="1200" height="676" alt="Screenshot 2026-11-23 145350" src="https://github.com/user-attachments/assets/d7173f2a-eea4-4758-825f-ad3a35d51149" />
+
 
 ## Data Confidentiality
 
